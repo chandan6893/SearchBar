@@ -54,3 +54,6 @@ right: 0%;
 p-details h2{
     margin-top: ipx;
 }
+.btn{
+    cursor: pointer;
+}
